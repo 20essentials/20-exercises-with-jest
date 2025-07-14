@@ -1,0 +1,17 @@
+{
+  "name": "20-exercises-with-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node run.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "@Dominic",
+  "license": "MIT",
+  "description": "20 Exercises With Jest + Vanilla JavaScript",
+  "devDependencies": {
+    "jest": "30.0.4"
+  }
+}
