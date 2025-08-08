@@ -9,7 +9,7 @@ importers:
   .:
     devDependencies:
       jest:
-        specifier: ^30.0.4
+        specifier: 30.0.4
         version: 30.0.4(@types/node@24.0.13)
 
 packages:
